@@ -47,8 +47,6 @@ As stated before, it would be important to compare total profits of films with h
 
 ## For More Information
 
-Please review our full analysis in [our Jupyter Notebook](./dsc-phase1-project-template.ipynb) or our [presentation](./DS_Project_Presentation.pdf).
-
 For any additional questions, please contact Le Truong @ le.truong711@gmail.com
 
 ## Repository Structure
