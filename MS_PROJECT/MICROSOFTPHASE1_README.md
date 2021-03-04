@@ -27,13 +27,13 @@ In order to begin our analysis, we had to obtain and extract our data from Flati
 
 ## Results
 
-1. ![](../images/Runtime.png)
+1. ![](Phase 1 - MS PROJECT/images/Runtime.png)
 We compared move runtime with average movie ratings to predict an ideal movie duration. What we found was that there was a slight negative correlation between movie lenght and ratings. However, the analysis was not strong enough to conclude ratings get lower if a movie is longer. The Pearson coefficient for this graph was only -0.044.
 ***
-2. ![](../images/Genre.png)
+2. ![](Phase 1 - MS PROJECT/images/Genre.png)
 Upon looking at our genre table and comparing it with ratings, we were hoping to isolate specific genres to see if certain ones got higher ratings. We found that action, adventure, drama, and SciFi films, on average, got rated higher. 
 
-3. ![](../images/productionbudget.png)
+3. ![](Phase 1 - MS PROJECT/images/productionbudget.png)
 With this comparison, we were hoping to see if a movie started out with a higher, starting production budget, would it rank higher than a movie with a lower starting production budget. What we were able to find that movies with a higher production budget, generally ranked higher than movies with lower starting budgets. It's not always the case as the data shows, but yes, production bugets do influence the movie's overall ratings. 
 
 ## Conclusions
