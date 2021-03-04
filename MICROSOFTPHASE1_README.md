@@ -1,6 +1,6 @@
-# Title
+# Helping Micosoft Take Over the Film Industry.
 
-**Authors**: Student1, Student2
+**Authors**: Le Truong
 
 ## Overview
 
@@ -40,7 +40,7 @@ Questions to consider:
 ***
 
 ## Results
-
+![](images/Runtime.png)
 Present your key results. For Phase 1, this will be findings from your descriptive analysis.
 
 ***
